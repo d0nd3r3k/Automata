@@ -1,0 +1,14 @@
+{
+  "name": "FFA-LAU-Automata",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Donald Derek Haddad <donaldderek.haddad@gmail.com> (http://www.donaldderek.com)",
+  "engines": {
+    "node": "0.10.x",
+    "npm":  "1.2.x"
+  },
+  "dependencies": {
+    "ansi-styles": "*",
+    "moment": "*"
+  }
+}
